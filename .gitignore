@@ -25,6 +25,4 @@ dist-ssr
 .dyad/
 
 # Environment variables
-.env
-.env.*
 !.env.example
